@@ -2,6 +2,7 @@ from parking import Parking
 from coche import Coche
 
 parking = Parking()
-coche = Coche("Citroen", "C5", "1234-ABC")
+coche = Coche("Ciröen", "C5", "1234-ABC")
 
-print("hola cochesito_lere")
+print("Hola Cochecito Lere")
+print(f"Coche 001: {coche}")
